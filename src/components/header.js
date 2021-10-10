@@ -17,7 +17,7 @@ class Header extends Component{
                     <a href="https://www.facebook.com/CSESSHKUSTSU" target="_blank" rel="noopener noreferrer">
                         <img src={require('../assets/fb-white.svg')} alt="Facebook"/>
                     </a>
-                    <a href="https://www.instagram.com/csess.ust/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.instagram.com/csess.hkustsu/" target="_blank" rel="noopener noreferrer">
                         <img src={require('../assets/ig-white.svg')} alt="Instagram"/>
                     </a>
                     <a href="https://www.youtube.com/channel/UCo8N6zHE3oUme-9tkoJMJYQ" target="_blank" rel="noopener noreferrer">

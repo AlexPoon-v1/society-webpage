@@ -12,7 +12,7 @@ export default function(props){
                 <div className="container">
                     <h1 className="pageHeader">About Us</h1>
                     <div className="header-image">
-                        <img src="https://csess.su.ust.hk/home/images/history.jpg" alt="CSESS" />
+                        <img src="https://csess.su.hkust.edu.hk/home/images/history.jpg" alt="CSESS" />
                     </div>
                     <div>
                         <h2 className='highlighted'>History</h2>
@@ -47,7 +47,7 @@ export default function(props){
                                 <a href="https://www.facebook.com/CSESSHKUSTSU" target="_blank" rel="noopener noreferrer">
                                     <img src={require('../../../assets/fb.svg')} alt="Facebook"/>
                                 </a>
-                                <a href="https://www.instagram.com/csess.ust/" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.instagram.com/csess.hkustsu" target="_blank" rel="noopener noreferrer">
                                     <img src={require('../../../assets/ig.svg')} alt="Instagram"/>
                                 </a>
                                 <a href="https://www.youtube.com/channel/UCo8N6zHE3oUme-9tkoJMJYQ" target="_blank" rel="noopener noreferrer">
