@@ -32,7 +32,7 @@ const listItems = [
                 },
                 {
                     path: '/about/honary-member/',
-                    displayName: 'Honary Members'
+                    displayName: 'Honorary Members'
                 }
             ]
         },

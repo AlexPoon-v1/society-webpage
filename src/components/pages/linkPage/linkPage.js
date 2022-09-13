@@ -34,8 +34,8 @@ const Links = {
             href: 'https://www.cse.ust.hk'
         },
         {
-            displayName: 'myPortal',
-            href: 'https://my.ust.hk/'
+            displayName: 'Student Intranet',
+            href: 'https://hkust.edu.hk/stu_intranet/'
         },
         {
             displayName: 'Canvas',
